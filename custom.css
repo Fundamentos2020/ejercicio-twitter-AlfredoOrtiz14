@@ -1,0 +1,73 @@
+h1, h2 {
+    text-align: center;
+}
+
+#contenido {
+    margin-top: 40px;
+}
+.borrar-tweet {
+    float: right;
+    cursor: pointer;
+    color:brown;
+    font-weight: bold;
+}
+
+.borrar-tweet:hover{
+    color:  red;
+}
+
+.border-up{
+    border-top: 1px solid gray;
+}
+
+.borde{
+    border: 1px, brown, solid;
+}
+
+.p-10{
+    padding: 10px;
+    margin: 50px;
+}
+
+.m-top-10{
+    margin-top: 10px;
+}
+
+.m-bot-15{
+    margin-bottom: 15px;
+}
+
+.center{
+    display: inline-block;
+    text-decoration: none;
+}
+
+.border{
+    border: red 1px solid;;
+}
+
+.tweet{
+    width: 80%;
+    float: right;
+}
+
+.divFoto{
+    width: 20%;
+    margin: 0px;
+    margin-right: 0px;
+    display: inline-block;
+}
+
+li{
+    list-style: none;
+}
+
+.pie{
+    background-color: brown;
+    color: white;
+    border-color: brown;
+}
+
+.text-center{
+    text-align: center;
+}
